@@ -1,0 +1,40 @@
+ion-content{
+    --ion-background-color: #151a21 !important;
+}
+
+.logo-header{
+    height: 40px;
+    margin-top:5px;
+}
+.img-intro{
+    margin-bottom: -7px;
+}
+
+.box-title{
+    color: #fff;
+    font-weight: 600;
+    margin: 2px 0px 5px 10px;
+}
+.flexbox{
+    display: flex;
+    overflow: scroll;
+}
+.movie{
+    margin-left:5px;
+}
+.movie img{
+    height: 150px;
+    max-width: none;
+}
+.flexboxList{
+    display: flex;
+    overflow: scroll;
+}
+.moviList{
+    margin-left: 5px;
+}
+.moviList img{
+    height: 150px;
+    max-width: none;
+
+}
